@@ -1,0 +1,9 @@
+G:\work\南海核电\代码\测试\TestGit\TestGit\bin\Debug\TestGit.exe.config
+G:\work\南海核电\代码\测试\TestGit\TestGit\bin\Debug\TestGit.exe
+G:\work\南海核电\代码\测试\TestGit\TestGit\bin\Debug\TestGit.pdb
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.Form1.resources
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.Properties.Resources.resources
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.csproj.GenerateResource.Cache
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.exe
+G:\work\南海核电\代码\测试\TestGit\TestGit\obj\Debug\TestGit.pdb
