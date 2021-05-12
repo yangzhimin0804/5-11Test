@@ -21,5 +21,15 @@ namespace TestGit
         {
             MessageBox.Show("dasdas");
         }
+        /// <summary>
+        /// 乘法
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
+        private int Math(int a,int b)
+        {
+            return a * b;
+        }
     }
 }
