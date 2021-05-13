@@ -21,6 +21,7 @@ namespace TestGit
         {
             MessageBox.Show("dasdas");
         }
+
         private string getvalue()
         {
             return "陈聪聪是sb";
