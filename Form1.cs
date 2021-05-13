@@ -35,5 +35,6 @@ namespace TestGit
         {
             return a * b;
         }
+        private string myname="dad";
     }
 }
