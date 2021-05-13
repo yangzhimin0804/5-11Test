@@ -21,11 +21,10 @@ namespace TestGit
         {
             MessageBox.Show("dasdas");
         }
-<<<<<<< HEAD
         private string getvalue()
         {
             return "陈聪聪是sb";
-=======
+        }
         /// <summary>
         /// 乘法
         /// </summary>
@@ -35,7 +34,6 @@ namespace TestGit
         private int Math(int a,int b)
         {
             return a * b;
->>>>>>> f8732e9bb993985ac23120cde14ef8e5b07ac1fb
         }
     }
 }
